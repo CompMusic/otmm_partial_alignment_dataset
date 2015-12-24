@@ -1,0 +1,137 @@
+{
+    "composer": {
+        "mbid": "f6def379-b0fd-4537-9885-db9ceccb7d2b", 
+        "symbtr_slug": "lemi_atli", 
+        "name": "Lem'i Atl\u0131", 
+        "mu2_name": "Lem'i Atl\u0131"
+    }, 
+    "tonic": "A4", 
+    "lyricist": {
+        "mbid": "24526514-70f8-4c41-b518-ed0d23f5eb86", 
+        "name": "Ali Vecdi Bing\u00f6l", 
+        "mu2_name": "?"
+    }, 
+    "notation": "TSM", 
+    "form": {
+        "symbtr_slug": "sarki", 
+        "mb_attribute": "\u015eark\u0131", 
+        "mu2_name": "\u015eark\u0131"
+    }, 
+    "language": "tur", 
+    "phrases": {
+        "automatic": [], 
+        "annotated": []
+    }, 
+    "work": {
+        "mbid": "800dd4f6-7b9c-4e13-a2a0-1358439539cb", 
+        "symbtr_slug": "varsin_gonul", 
+        "mu2_title": "Vars\u0131n G\u00f6n\u00fcl A\u015fk\u0131nla...", 
+        "title": "Vars\u0131n G\u00f6n\u00fcl A\u015fk\u0131nla Harab Olsun"
+    }, 
+    "tempo": {
+        "unit": "bpm", 
+        "value": 144
+    }, 
+    "key_signature": [
+        "F5#5", 
+        "C5#3", 
+        "G5#3"
+    ], 
+    "makam": {
+        "symbtr_slug": "nisaburek", 
+        "mb_attribute": "Ni\u015faburek", 
+        "mu2_name": "Ni\u015f\u00e2burek"
+    }, 
+    "genre": "classical", 
+    "usul": {
+        "symbtr_slug": "turkaksagi", 
+        "mb_attribute": "T\u00fcrkaksa\u011f\u0131", 
+        "mertebe": 8, 
+        "mu2_name": "T\u00fcrkaksa\u011f\u0131", 
+        "number_of_pulses": 5
+    }, 
+    "sections": [
+        {
+            "name": "ARANA\u011eME", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 58, 
+            "startNote": 1, 
+            "melodicStructure": "ARANAGME_1", 
+            "lyrics": "", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "name": "ARANA\u011eME", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 116, 
+            "startNote": 59, 
+            "melodicStructure": "ARANAGME_1", 
+            "lyrics": "", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 152, 
+            "startNote": 117, 
+            "melodicStructure": "B1", 
+            "lyrics": "Vars\u0131n g\u00f6n\u00fcl_a\u015fk\u0131nla har\u00e2b olsun_efendim  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 189, 
+            "startNote": 153, 
+            "melodicStructure": "B2", 
+            "lyrics": "Vars\u0131n g\u00f6n\u00fcl_a\u015fk\u0131nla har\u00e2b olsun_efendim  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "C1", 
+            "endNote": 229, 
+            "startNote": 190, 
+            "melodicStructure": "C1", 
+            "lyrics": "C\u00e2n\u00e2n\u0131ma nezr_eylemi\u015fim c\u00e2n\u0131m\u0131 kendim  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "C1", 
+            "endNote": 268, 
+            "startNote": 230, 
+            "melodicStructure": "C2", 
+            "lyrics": "C\u00e2n\u00e2n\u0131ma nezr_eylemi\u015fim c\u00e2n\u0131m\u0131 kendim  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "D1", 
+            "endNote": 312, 
+            "startNote": 269, 
+            "melodicStructure": "D1", 
+            "lyrics": "Derm\u00e2n arad\u0131m derdime hicr\u00e2n\u0131 be\u011fendim  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "D2", 
+            "endNote": 356, 
+            "startNote": 313, 
+            "melodicStructure": "E1", 
+            "lyrics": "Derman arad\u0131m derdime hicr\u00e2n\u0131 be\u011fendim  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "C1", 
+            "endNote": 385, 
+            "startNote": 357, 
+            "melodicStructure": "F1", 
+            "lyrics": "C\u00e2n\u00e2n\u0131ma nezr_eylemi\u015fim c\u00e2n\u0131m\u0131 kendim  ", 
+            "slug": "VOCAL_SECTION"
+        }
+    ], 
+    "symbtr": "nisaburek--sarki--turkaksagi--varsin_gonul--lemi_atli"
+}
