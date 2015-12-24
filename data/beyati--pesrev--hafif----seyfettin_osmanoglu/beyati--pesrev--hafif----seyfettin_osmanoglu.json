@@ -1,0 +1,791 @@
+{
+    "tonic": "A4", 
+    "lyricist": {
+        "mu2_name": ""
+    }, 
+    "notation": "TSM", 
+    "language": "zxx", 
+    "form": {
+        "symbtr_slug": "pesrev", 
+        "mb_attribute": "Pe\u015frev", 
+        "mu2_name": "Pe\u015frev"
+    }, 
+    "phrases": {
+        "automatic": [
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 34, 
+                "startNote": 1, 
+                "melodicStructure": "A1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "1-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 0
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 61, 
+                "startNote": 35, 
+                "melodicStructure": "B1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "1-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 0
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 91, 
+                "startNote": 62, 
+                "melodicStructure": "C1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "1-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 0
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 120, 
+                "startNote": 92, 
+                "melodicStructure": "D1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 134, 
+                "startNote": 121, 
+                "melodicStructure": "E1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 147, 
+                "startNote": 135, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 176, 
+                "startNote": 148, 
+                "melodicStructure": "G1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 216, 
+                "startNote": 177, 
+                "melodicStructure": "H1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 250, 
+                "startNote": 217, 
+                "melodicStructure": "I1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 261, 
+                "startNote": 251, 
+                "melodicStructure": "J1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "2-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 278, 
+                "startNote": 262, 
+                "melodicStructure": "K1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "2-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 298, 
+                "startNote": 279, 
+                "melodicStructure": "L1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "2-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 321, 
+                "startNote": 299, 
+                "melodicStructure": "M1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "2-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 323, 
+                "startNote": 322, 
+                "melodicStructure": "N1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "2-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 349, 
+                "startNote": 324, 
+                "melodicStructure": "O1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 3
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 363, 
+                "startNote": 350, 
+                "melodicStructure": "E1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 3
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 376, 
+                "startNote": 364, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 3
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 405, 
+                "startNote": 377, 
+                "melodicStructure": "G1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 3
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 445, 
+                "startNote": 406, 
+                "melodicStructure": "H1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 3
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 479, 
+                "startNote": 446, 
+                "melodicStructure": "I2", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 3
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 489, 
+                "startNote": 480, 
+                "melodicStructure": "P1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "3-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 497, 
+                "startNote": 490, 
+                "melodicStructure": "Q1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "3-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 529, 
+                "startNote": 498, 
+                "melodicStructure": "R1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "3-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 553, 
+                "startNote": 530, 
+                "melodicStructure": "S1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "3-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 580, 
+                "startNote": 554, 
+                "melodicStructure": "T1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 5
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 594, 
+                "startNote": 581, 
+                "melodicStructure": "E1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 5
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 607, 
+                "startNote": 595, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 5
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 636, 
+                "startNote": 608, 
+                "melodicStructure": "G1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 5
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 676, 
+                "startNote": 637, 
+                "melodicStructure": "H1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 5
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 710, 
+                "startNote": 677, 
+                "melodicStructure": "I3", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 5
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 734, 
+                "startNote": 711, 
+                "melodicStructure": "U1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "4-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 6
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 759, 
+                "startNote": 735, 
+                "melodicStructure": "V1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "4-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 6
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 789, 
+                "startNote": 760, 
+                "melodicStructure": "W1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "4-HANE_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 6
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 821, 
+                "startNote": 790, 
+                "melodicStructure": "X1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 7
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 835, 
+                "startNote": 822, 
+                "melodicStructure": "E1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 7
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 848, 
+                "startNote": 836, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 7
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 877, 
+                "startNote": 849, 
+                "melodicStructure": "G1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 7
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 917, 
+                "startNote": 878, 
+                "melodicStructure": "H1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 7
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 951, 
+                "startNote": 918, 
+                "melodicStructure": "I4", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "TESLIM_1", 
+                        "lyricStructure": "INSTRUMENTAL", 
+                        "section_idx": 7
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }
+        ], 
+        "annotated": []
+    }, 
+    "work": {
+        "mbid": "831d4801-0562-491f-922b-f6f987d19b3d", 
+        "title": "Beyati Pe\u015frev"
+    }, 
+    "tempo": {
+        "unit": "bpm", 
+        "value": 72
+    }, 
+    "mu2_title": "Bey\u00e2t\u00ee Pe\u015frev", 
+    "makam": {
+        "symbtr_slug": "beyati", 
+        "mb_attribute": "Beyati", 
+        "mu2_name": "Bey\u00e2t\u00ee"
+    }, 
+    "key_signature": [
+        "B4b2"
+    ], 
+    "composer": {
+        "mbid": "fcc1e11e-97cf-41a3-9d66-76a944c96968", 
+        "symbtr_slug": "seyfettin_osmanoglu", 
+        "name": "Seyfettin Osmano\u011flu", 
+        "mu2_name": "Seyfettin Osmano\u011flu"
+    }, 
+    "genre": "classical", 
+    "usul": {
+        "subdivision": {
+            "mertebe": 4, 
+            "number_of_pulses": 4
+        }, 
+        "number_of_pulses": 32, 
+        "symbtr_slug": "hafif", 
+        "mu2_name": "Haf\u00eef", 
+        "mb_attribute": "Hafif", 
+        "mertebe": 4
+    }, 
+    "sections": [
+        {
+            "name": "1. HANE", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 119, 
+            "startNote": 1, 
+            "melodicStructure": "1-HANE_1", 
+            "lyrics": "", 
+            "slug": "1-HANE"
+        }, 
+        {
+            "name": "TESL\u0130M", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 250, 
+            "startNote": 120, 
+            "melodicStructure": "TESLIM_1", 
+            "lyrics": "", 
+            "slug": "TESLIM"
+        }, 
+        {
+            "name": "2. HANE", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 348, 
+            "startNote": 251, 
+            "melodicStructure": "2-HANE_1", 
+            "lyrics": "", 
+            "slug": "2-HANE"
+        }, 
+        {
+            "name": "TESL\u0130M", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 479, 
+            "startNote": 349, 
+            "melodicStructure": "TESLIM_1", 
+            "lyrics": "", 
+            "slug": "TESLIM"
+        }, 
+        {
+            "name": "3. HANE", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 579, 
+            "startNote": 480, 
+            "melodicStructure": "3-HANE_1", 
+            "lyrics": "", 
+            "slug": "3-HANE"
+        }, 
+        {
+            "name": "TESL\u0130M", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 710, 
+            "startNote": 580, 
+            "melodicStructure": "TESLIM_1", 
+            "lyrics": "", 
+            "slug": "TESLIM"
+        }, 
+        {
+            "name": "4. HANE", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 820, 
+            "startNote": 711, 
+            "melodicStructure": "4-HANE_1", 
+            "lyrics": "", 
+            "slug": "4-HANE"
+        }, 
+        {
+            "name": "TESL\u0130M", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 951, 
+            "startNote": 821, 
+            "melodicStructure": "TESLIM_1", 
+            "lyrics": "", 
+            "slug": "TESLIM"
+        }
+    ], 
+    "symbtr": "beyati--pesrev--hafif----seyfettin_osmanoglu"
+}
