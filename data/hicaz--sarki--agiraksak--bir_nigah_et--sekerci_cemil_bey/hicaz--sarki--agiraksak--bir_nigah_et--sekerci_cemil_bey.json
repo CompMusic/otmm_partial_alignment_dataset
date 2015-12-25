@@ -1,0 +1,244 @@
+{
+    "tonic": "A4", 
+    "lyricist": {
+        "mbid": "63b8b4c7-2a0c-49d2-ab88-428268dc8355", 
+        "name": "Recaizade Mahmut Ekrem", 
+        "mu2_name": "Rec\u00e2izade Mahmut Ekrem"
+    }, 
+    "notation": "TSM", 
+    "language": "tur", 
+    "form": {
+        "symbtr_slug": "sarki", 
+        "mb_attribute": "\u015eark\u0131", 
+        "mu2_name": "\u015eark\u0131"
+    }, 
+    "phrases": {
+        "automatic": [
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "Bir ", 
+                "lyricStructure": "A1", 
+                "endNote": 175, 
+                "startNote": 1, 
+                "melodicStructure": "A1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "ARANAGME_1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "nig\u00e2h_et ne ", 
+                "lyricStructure": "B1", 
+                "endNote": 189, 
+                "startNote": 176, 
+                "melodicStructure": "B1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "ARANAGME_1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "olur hali", 
+                "lyricStructure": "C1", 
+                "endNote": 204, 
+                "startNote": 190, 
+                "melodicStructure": "C1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "ARANAGME_1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "me ey gonca dehen ", 
+                "lyricStructure": "D1", 
+                "endNote": 225, 
+                "startNote": 205, 
+                "melodicStructure": "D1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "ARANAGME_1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "G\u00f6z g\u00f6z_oldu y\u00fcre\u011fim g\u00f6zlerinin derdin", 
+                "lyricStructure": "E1", 
+                "endNote": 282, 
+                "startNote": 226, 
+                "melodicStructure": "E1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "ARANAGME_1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "G\u00f6z g\u00f6z_oldu y\u00fcre\u011fim g\u00f6zlerinin derdin", 
+                "lyricStructure": "E1", 
+                "endNote": 339, 
+                "startNote": 283, 
+                "melodicStructure": "E2", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "ARANAGME_1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "Niye bakt\u0131m ", 
+                "lyricStructure": "F1", 
+                "endNote": 357, 
+                "startNote": 340, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "ARANAGME_1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "niye g\u00f6rd\u00fcm ni", 
+                "lyricStructure": "G1", 
+                "endNote": 376, 
+                "startNote": 358, 
+                "melodicStructure": "G1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "ARANAGME_1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "ye sevdim seni ben ", 
+                "lyricStructure": "H1", 
+                "endNote": 397, 
+                "startNote": 377, 
+                "melodicStructure": "D1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "ARANAGME_1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "G\u00f6z g\u00f6z_oldu y\u00fcre\u011fim g\u00f6zlerinin derdin", 
+                "lyricStructure": "E1", 
+                "endNote": 454, 
+                "startNote": 398, 
+                "melodicStructure": "E3", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "ARANAGME_1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }
+        ], 
+        "annotated": []
+    }, 
+    "work": {
+        "mbid": "5e302d10-2907-4f94-b87a-cdfd802f7b0d", 
+        "title": "Bir Nigah Et"
+    }, 
+    "tempo": {
+        "unit": "bpm", 
+        "value": 84
+    }, 
+    "mu2_title": "Bir Nig\u00e2h Et Ne Olur", 
+    "makam": {
+        "symbtr_slug": "hicaz", 
+        "mb_attribute": "Hicaz", 
+        "mu2_name": "Hicaz"
+    }, 
+    "key_signature": [
+        "B4b4", 
+        "F5#4", 
+        "C5#4"
+    ], 
+    "composer": {
+        "mbid": "41991bee-ecc1-416f-9351-6cd3f014d887", 
+        "symbtr_slug": "sekerci_cemil_bey", 
+        "name": "\u015eekerci Cemil Bey", 
+        "mu2_name": "\u015eekerci Cemil Bey"
+    }, 
+    "genre": "classical", 
+    "usul": {
+        "symbtr_slug": "agiraksak", 
+        "mb_attribute": "A\u011f\u0131raksak", 
+        "mertebe": 4, 
+        "mu2_name": "A\u011f\u0131raksak", 
+        "number_of_pulses": 9
+    }, 
+    "sections": [
+        {
+            "name": "ARANA\u011eME", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 87, 
+            "startNote": 1, 
+            "melodicStructure": "ARANAGME_1", 
+            "lyrics": "", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "name": "ARANA\u011eME", 
+            "lyricStructure": "B1", 
+            "endNote": 454, 
+            "startNote": 88, 
+            "melodicStructure": "ARANAGME_1", 
+            "lyrics": "", 
+            "slug": "ARANAGME"
+        }
+    ], 
+    "symbtr": "hicaz--sarki--agiraksak--bir_nigah_et--sekerci_cemil_bey"
+}
