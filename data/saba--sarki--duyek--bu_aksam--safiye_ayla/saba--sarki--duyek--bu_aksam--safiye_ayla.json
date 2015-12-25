@@ -1,0 +1,715 @@
+{
+    "tonic": "A4", 
+    "lyricist": {
+        "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+        "name": "[unknown]", 
+        "mu2_name": "?"
+    }, 
+    "notation": "TSM", 
+    "language": "tur", 
+    "form": {
+        "symbtr_slug": "sarki", 
+        "mb_attribute": "\u015eark\u0131", 
+        "mu2_name": "\u015eark\u0131"
+    }, 
+    "phrases": {
+        "automatic": [
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "ak\u015fam ay\u0131", 
+                "lyricStructure": "A1", 
+                "endNote": 4, 
+                "startNote": 1, 
+                "melodicStructure": "A1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "A1", 
+                        "lyricStructure": "A1", 
+                        "section_idx": 0
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "\u015f\u0131\u011f\u0131nda se", 
+                "lyricStructure": "B1", 
+                "endNote": 13, 
+                "startNote": 5, 
+                "melodicStructure": "B1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "A1", 
+                        "lyricStructure": "A1", 
+                        "section_idx": 0
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "ninle bulu\u015fal\u0131m  ", 
+                "lyricStructure": "C1", 
+                "endNote": 24, 
+                "startNote": 14, 
+                "melodicStructure": "C1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "A1", 
+                        "lyricStructure": "A1", 
+                        "section_idx": 0
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "se", 
+                "lyricStructure": "D1", 
+                "endNote": 31, 
+                "startNote": 25, 
+                "melodicStructure": "D1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "ninle bulu\u015fal\u0131m  Dert", 
+                "lyricStructure": "C2", 
+                "endNote": 50, 
+                "startNote": 32, 
+                "melodicStructure": "E1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "leri unutal\u0131m ", 
+                "lyricStructure": "E1", 
+                "endNote": 61, 
+                "startNote": 51, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "u", 
+                "lyricStructure": "F1", 
+                "endNote": 69, 
+                "startNote": 62, 
+                "melodicStructure": "G1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "nutal\u0131m dertleri  ", 
+                "lyricStructure": "G1", 
+                "endNote": 80, 
+                "startNote": 70, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 85, 
+                "startNote": 81, 
+                "melodicStructure": "H1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 88, 
+                "startNote": 86, 
+                "melodicStructure": "I1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 96, 
+                "startNote": 89, 
+                "melodicStructure": "J1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "E", 
+                "lyricStructure": "I1", 
+                "endNote": 110, 
+                "startNote": 97, 
+                "melodicStructure": "K1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "\u011fer tutarsan s\u00f6", 
+                "lyricStructure": "J1", 
+                "endNote": 117, 
+                "startNote": 111, 
+                "melodicStructure": "L1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "D1", 
+                        "lyricStructure": "D1", 
+                        "section_idx": 3
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "z\u00fcn\u00fc  Bu ", 
+                "lyricStructure": "K1", 
+                "endNote": 128, 
+                "startNote": 118, 
+                "melodicStructure": "M1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C2", 
+                        "lyricStructure": "E1", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "ak\u015fam bulu\u015fal\u0131m ", 
+                "lyricStructure": "L1", 
+                "endNote": 139, 
+                "startNote": 129, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C2", 
+                        "lyricStructure": "E1", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "dert", 
+                "lyricStructure": "M1", 
+                "endNote": 147, 
+                "startNote": 140, 
+                "melodicStructure": "G1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C2", 
+                        "lyricStructure": "E1", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "leri unutal\u0131m  ", 
+                "lyricStructure": "E1", 
+                "endNote": 158, 
+                "startNote": 148, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C2", 
+                        "lyricStructure": "E1", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 163, 
+                "startNote": 159, 
+                "melodicStructure": "H1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C2", 
+                        "lyricStructure": "E1", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 176, 
+                "startNote": 164, 
+                "melodicStructure": "N1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C2", 
+                        "lyricStructure": "E1", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "Bu ", 
+                "lyricStructure": "N1", 
+                "endNote": 185, 
+                "startNote": 177, 
+                "melodicStructure": "O1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C2", 
+                        "lyricStructure": "E1", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "ak\u015fam beni a\u015fka inand\u0131r  Ya", 
+                "lyricStructure": "O1", 
+                "endNote": 199, 
+                "startNote": 186, 
+                "melodicStructure": "P1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "E1", 
+                        "lyricStructure": "F1", 
+                        "section_idx": 5
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "lan da olsa g\u00f6nl\u00fcm\u00fc kand\u0131r  ", 
+                "lyricStructure": "P1", 
+                "endNote": 217, 
+                "startNote": 200, 
+                "melodicStructure": "Q1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "F1", 
+                        "lyricStructure": "G1", 
+                        "section_idx": 6
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 227, 
+                "startNote": 218, 
+                "melodicStructure": "R1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "F1", 
+                        "lyricStructure": "G1", 
+                        "section_idx": 6
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "Bu ak\u015fam beni a\u015fka inand\u0131r  Yalan ", 
+                "lyricStructure": "O2", 
+                "endNote": 255, 
+                "startNote": 228, 
+                "melodicStructure": "S1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "H1", 
+                        "lyricStructure": "G1", 
+                        "section_idx": 8
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "da olsa g\u00f6n", 
+                "lyricStructure": "Q1", 
+                "endNote": 262, 
+                "startNote": 256, 
+                "melodicStructure": "T1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "H1", 
+                        "lyricStructure": "G1", 
+                        "section_idx": 8
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "l\u00fcm\u00fc kand\u0131r  ", 
+                "lyricStructure": "R1", 
+                "endNote": 270, 
+                "startNote": 263, 
+                "melodicStructure": "U1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "H1", 
+                        "lyricStructure": "G1", 
+                        "section_idx": 8
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "INSTRUMENTAL_PHRASE", 
+                "lyrics": "", 
+                "lyricStructure": "INSTRUMENTAL", 
+                "endNote": 280, 
+                "startNote": 271, 
+                "melodicStructure": "V1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "H1", 
+                        "lyricStructure": "G1", 
+                        "section_idx": 8
+                    }
+                ], 
+                "slug": "INSTRUMENTAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "E", 
+                "lyricStructure": "I1", 
+                "endNote": 294, 
+                "startNote": 281, 
+                "melodicStructure": "W1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "H1", 
+                        "lyricStructure": "G1", 
+                        "section_idx": 8
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "\u011fer tutarsan s\u00f6", 
+                "lyricStructure": "J1", 
+                "endNote": 301, 
+                "startNote": 295, 
+                "melodicStructure": "L1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "D1", 
+                        "lyricStructure": "D1", 
+                        "section_idx": 9
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "z\u00fcn\u00fc  Bu ", 
+                "lyricStructure": "K1", 
+                "endNote": 312, 
+                "startNote": 302, 
+                "melodicStructure": "M1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "I1", 
+                        "lyricStructure": "E1", 
+                        "section_idx": 10
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "ak\u015fam bulu\u015fal\u0131m ", 
+                "lyricStructure": "L1", 
+                "endNote": 323, 
+                "startNote": 313, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "I1", 
+                        "lyricStructure": "E1", 
+                        "section_idx": 10
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "dert", 
+                "lyricStructure": "M1", 
+                "endNote": 331, 
+                "startNote": 324, 
+                "melodicStructure": "G1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "I1", 
+                        "lyricStructure": "E1", 
+                        "section_idx": 10
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "leri unutal\u0131m  ", 
+                "lyricStructure": "E1", 
+                "endNote": 342, 
+                "startNote": 332, 
+                "melodicStructure": "F2", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "I1", 
+                        "lyricStructure": "E1", 
+                        "section_idx": 10
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }
+        ], 
+        "annotated": []
+    }, 
+    "work": {
+        "mbid": "139beb14-cfc7-4409-a37c-bba1571aa555", 
+        "title": "Bu Ak\u015fam Ay I\u015f\u0131\u011f\u0131nda"
+    }, 
+    "tempo": {
+        "unit": "bpm", 
+        "value": 156
+    }, 
+    "mu2_title": "Bu Ak\u015fam Ay\u0131\u015f\u0131\u011f\u0131nda", 
+    "makam": {
+        "symbtr_slug": "saba", 
+        "mb_attribute": "Saba", 
+        "mu2_name": "Sab\u00e2"
+    }, 
+    "key_signature": [
+        "B4b2", 
+        "D5b3"
+    ], 
+    "composer": {
+        "mbid": "4632b8e5-967d-48aa-a532-655545a49a0f", 
+        "symbtr_slug": "safiye_ayla", 
+        "name": "Safiye Ayla", 
+        "mu2_name": "Safiye Ayla"
+    }, 
+    "genre": "classical", 
+    "usul": {
+        "symbtr_slug": "duyek", 
+        "mb_attribute": "D\u00fcyek", 
+        "mertebe": 8, 
+        "mu2_name": "D\u00fcyek", 
+        "number_of_pulses": 8
+    }, 
+    "sections": [
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "A1", 
+            "endNote": 30, 
+            "startNote": 1, 
+            "melodicStructure": "A1", 
+            "lyrics": "Bu ak\u015fam ay\u0131\u015f\u0131\u011f\u0131nda seninle bulu\u015fal\u0131m  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 49, 
+            "startNote": 31, 
+            "melodicStructure": "B1", 
+            "lyrics": "seninle bulu\u015fal\u0131m  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "C1", 
+            "endNote": 110, 
+            "startNote": 50, 
+            "melodicStructure": "C1", 
+            "lyrics": "Dertleri unutal\u0131m unutal\u0131m dertleri  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "D1", 
+            "endNote": 127, 
+            "startNote": 111, 
+            "melodicStructure": "D1", 
+            "lyrics": "E\u011fer tutarsan s\u00f6z\u00fcn\u00fc  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "E1", 
+            "endNote": 185, 
+            "startNote": 128, 
+            "melodicStructure": "C2", 
+            "lyrics": "Bu ak\u015fam bulu\u015fal\u0131m dertleri unutal\u0131m  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "F1", 
+            "endNote": 199, 
+            "startNote": 186, 
+            "melodicStructure": "E1", 
+            "lyrics": "Bu ak\u015fam beni a\u015fka inand\u0131r  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "G1", 
+            "endNote": 240, 
+            "startNote": 200, 
+            "melodicStructure": "F1", 
+            "lyrics": "Yalan da olsa g\u00f6nl\u00fcm\u00fc kand\u0131r  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "F1", 
+            "endNote": 254, 
+            "startNote": 241, 
+            "melodicStructure": "G1", 
+            "lyrics": "Bu ak\u015fam beni a\u015fka inand\u0131r  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "G1", 
+            "endNote": 294, 
+            "startNote": 255, 
+            "melodicStructure": "H1", 
+            "lyrics": "Yalan da olsa g\u00f6nl\u00fcm\u00fc kand\u0131r  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "D1", 
+            "endNote": 311, 
+            "startNote": 295, 
+            "melodicStructure": "D1", 
+            "lyrics": "E\u011fer tutarsan s\u00f6z\u00fcn\u00fc  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "E1", 
+            "endNote": 342, 
+            "startNote": 312, 
+            "melodicStructure": "I1", 
+            "lyrics": "Bu ak\u015fam bulu\u015fal\u0131m dertleri unutal\u0131m  ", 
+            "slug": "VOCAL_SECTION"
+        }
+    ], 
+    "symbtr": "saba--sarki--duyek--bu_aksam--safiye_ayla"
+}
