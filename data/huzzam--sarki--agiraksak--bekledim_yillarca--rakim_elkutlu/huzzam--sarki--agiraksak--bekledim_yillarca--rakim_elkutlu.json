@@ -1,0 +1,535 @@
+{
+    "tonic": "B4b1", 
+    "lyricist": {
+        "mbid": "a18f7c1f-337f-4f5d-ba97-b29c43197eca", 
+        "name": "H\u00fcseyin Mayada\u011f", 
+        "mu2_name": "H\u00fcseyin Mayada\u011f"
+    }, 
+    "notation": "TSM", 
+    "language": "tur", 
+    "form": {
+        "symbtr_slug": "sarki", 
+        "mb_attribute": "\u015eark\u0131", 
+        "mu2_name": "\u015eark\u0131"
+    }, 
+    "phrases": {
+        "automatic": [
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "Bekledim y\u0131llar", 
+                "lyricStructure": "A1", 
+                "endNote": 21, 
+                "startNote": 1, 
+                "melodicStructure": "A1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "A1", 
+                        "lyricStructure": "A1", 
+                        "section_idx": 0
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "ca l\u00e2kin gel", 
+                "lyricStructure": "B1", 
+                "endNote": 44, 
+                "startNote": 22, 
+                "melodicStructure": "B1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "A1", 
+                        "lyricStructure": "A1", 
+                        "section_idx": 0
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "medin ey naz", 
+                "lyricStructure": "C1", 
+                "endNote": 61, 
+                "startNote": 45, 
+                "melodicStructure": "C1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "A1", 
+                        "lyricStructure": "A1", 
+                        "section_idx": 0
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "l\u0131 y\u00e2r  ", 
+                "lyricStructure": "D1", 
+                "endNote": 69, 
+                "startNote": 62, 
+                "melodicStructure": "D1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "A1", 
+                        "lyricStructure": "A1", 
+                        "section_idx": 0
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "Sende Leyl\u00e2 bende Mecn\u00fbn ol", 
+                "lyricStructure": "E1", 
+                "endNote": 129, 
+                "startNote": 70, 
+                "melodicStructure": "E1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "mak isti", 
+                "lyricStructure": "F1", 
+                "endNote": 134, 
+                "startNote": 130, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "d\u00e2", 
+                "lyricStructure": "G1", 
+                "endNote": 151, 
+                "startNote": 135, 
+                "melodicStructure": "G1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "d\u0131 var  ", 
+                "lyricStructure": "H1", 
+                "endNote": 159, 
+                "startNote": 152, 
+                "melodicStructure": "H1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 1
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "Sende Leyl\u00e2 bende Mecn\u00fbn ol", 
+                "lyricStructure": "E1", 
+                "endNote": 219, 
+                "startNote": 160, 
+                "melodicStructure": "E1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B2", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "mak isti", 
+                "lyricStructure": "F1", 
+                "endNote": 224, 
+                "startNote": 220, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B2", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "d\u00e2", 
+                "lyricStructure": "G1", 
+                "endNote": 241, 
+                "startNote": 225, 
+                "melodicStructure": "G1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B2", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "d\u0131 var  ", 
+                "lyricStructure": "H1", 
+                "endNote": 249, 
+                "startNote": 242, 
+                "melodicStructure": "H2", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B2", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 2
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "Gel", 
+                "lyricStructure": "I1", 
+                "endNote": 261, 
+                "startNote": 250, 
+                "melodicStructure": "I1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 3
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "mesin eyy\u00e2m_", 
+                "lyricStructure": "J1", 
+                "endNote": 275, 
+                "startNote": 262, 
+                "melodicStructure": "J1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 3
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "\u0131 h\u00e2r\u0131n bit", 
+                "lyricStructure": "K1", 
+                "endNote": 298, 
+                "startNote": 276, 
+                "melodicStructure": "B2", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 3
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "mesin art\u0131k ", 
+                "lyricStructure": "L1", 
+                "endNote": 315, 
+                "startNote": 299, 
+                "melodicStructure": "C1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 3
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "bahar  ", 
+                "lyricStructure": "M1", 
+                "endNote": 323, 
+                "startNote": 316, 
+                "melodicStructure": "D1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "C1", 
+                        "lyricStructure": "C1", 
+                        "section_idx": 3
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "Sende Leyl\u00e2 bende Mecn\u00fbn ol", 
+                "lyricStructure": "E1", 
+                "endNote": 383, 
+                "startNote": 324, 
+                "melodicStructure": "E1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "mak isti", 
+                "lyricStructure": "F1", 
+                "endNote": 388, 
+                "startNote": 384, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "d\u00e2", 
+                "lyricStructure": "G1", 
+                "endNote": 405, 
+                "startNote": 389, 
+                "melodicStructure": "G1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "d\u0131 var  ", 
+                "lyricStructure": "H1", 
+                "endNote": 413, 
+                "startNote": 406, 
+                "melodicStructure": "H1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B1", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 4
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "Sende Leyl\u00e2 bende Mecn\u00fbn ol", 
+                "lyricStructure": "E1", 
+                "endNote": 473, 
+                "startNote": 414, 
+                "melodicStructure": "E1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B3", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 5
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "mak isti", 
+                "lyricStructure": "F1", 
+                "endNote": 478, 
+                "startNote": 474, 
+                "melodicStructure": "F1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B3", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 5
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "d\u00e2", 
+                "lyricStructure": "G1", 
+                "endNote": 495, 
+                "startNote": 479, 
+                "melodicStructure": "G1", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B3", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 5
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }, 
+            {
+                "name": "VOCAL_PHRASE", 
+                "lyrics": "d\u0131 var  ", 
+                "lyricStructure": "H1", 
+                "endNote": 503, 
+                "startNote": 496, 
+                "melodicStructure": "H3", 
+                "flavor": [], 
+                "sections": [
+                    {
+                        "melodicStructure": "B3", 
+                        "lyricStructure": "B1", 
+                        "section_idx": 5
+                    }
+                ], 
+                "slug": "VOCAL_PHRASE"
+            }
+        ], 
+        "annotated": []
+    }, 
+    "work": {
+        "mbid": "435acee6-921f-4b85-9d5b-7b0b48e81f79", 
+        "title": "Bekledim Y\u0131llarca Lakin"
+    }, 
+    "tempo": {
+        "unit": "bpm", 
+        "value": 60
+    }, 
+    "mu2_title": "Bekledim Y\u0131llarca L\u00e2kin Gelmedin", 
+    "makam": {
+        "symbtr_slug": "huzzam", 
+        "mb_attribute": "H\u00fczzam", 
+        "mu2_name": "H\u00fczzam"
+    }, 
+    "key_signature": [
+        "B4b1", 
+        "E5b3", 
+        "F5#3"
+    ], 
+    "composer": {
+        "mbid": "347c8bed-dafc-4fd0-877e-a398492fbd38", 
+        "symbtr_slug": "rakim_elkutlu", 
+        "name": "Rak\u0131m Elkutlu", 
+        "mu2_name": "R\u00e2k\u0131m Elkutlu"
+    }, 
+    "genre": "classical", 
+    "usul": {
+        "symbtr_slug": "agiraksak", 
+        "mb_attribute": "A\u011f\u0131raksak", 
+        "mertebe": 4, 
+        "mu2_name": "A\u011f\u0131raksak", 
+        "number_of_pulses": 9
+    }, 
+    "sections": [
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "A1", 
+            "endNote": 75, 
+            "startNote": 1, 
+            "melodicStructure": "A1", 
+            "lyrics": "Bekledim y\u0131llarca l\u00e2kin gelmedin ey nazl\u0131 y\u00e2r  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 165, 
+            "startNote": 76, 
+            "melodicStructure": "B1", 
+            "lyrics": "Sende Leyl\u00e2 bende Mecn\u00fbn olmak istid\u00e2d\u0131 var  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 255, 
+            "startNote": 166, 
+            "melodicStructure": "B2", 
+            "lyrics": "Sende Leyl\u00e2 bende Mecn\u00fbn olmak istid\u00e2d\u0131 var  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "C1", 
+            "endNote": 329, 
+            "startNote": 256, 
+            "melodicStructure": "C1", 
+            "lyrics": "Gelmesin eyy\u00e2m_\u0131 h\u00e2r\u0131n bitmesin art\u0131k bahar  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 419, 
+            "startNote": 330, 
+            "melodicStructure": "B1", 
+            "lyrics": "Sende Leyl\u00e2 bende Mecn\u00fbn olmak istid\u00e2d\u0131 var  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 503, 
+            "startNote": 420, 
+            "melodicStructure": "B3", 
+            "lyrics": "Sende Leyl\u00e2 bende Mecn\u00fbn olmak istid\u00e2d\u0131 var  ", 
+            "slug": "VOCAL_SECTION"
+        }
+    ], 
+    "symbtr": "huzzam--sarki--agiraksak--bekledim_yillarca--rakim_elkutlu"
+}
