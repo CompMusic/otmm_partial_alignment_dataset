@@ -1,0 +1,134 @@
+{
+    "tonic": "A4", 
+    "lyricist": {
+        "mu2_name": "?"
+    }, 
+    "notation": "TSM", 
+    "language": "ota", 
+    "form": {
+        "symbtr_slug": "sarki", 
+        "mb_attribute": "\u015eark\u0131", 
+        "mu2_name": "\u015eark\u0131"
+    }, 
+    "phrases": {
+        "automatic": [], 
+        "annotated": []
+    }, 
+    "work": {
+        "mbid": "d5db969a-fd14-4ba9-9ba9-6e99917d9875", 
+        "title": "\u00dclfet Etsem Yar \u0130le A\u011fyare Ne"
+    }, 
+    "tempo": {
+        "unit": "bpm", 
+        "value": 132
+    }, 
+    "mu2_title": "\u00dclfet Etsem Y\u00e2r ile A\u011fy\u00e2re Ne", 
+    "makam": {
+        "symbtr_slug": "hicaz_uzzal", 
+        "mb_attribute": "Hicaz Uzzal", 
+        "mu2_name": "Hicaz-Uzz\u00e2l"
+    }, 
+    "key_signature": [
+        "B4b4", 
+        "F5#4", 
+        "C5#4"
+    ], 
+    "composer": {
+        "mbid": "7586560f-2457-485e-a099-41b45e9af5ab", 
+        "symbtr_slug": "sevki_bey", 
+        "name": "\u015eevki Bey", 
+        "mu2_name": "\u015eevki Bey"
+    }, 
+    "genre": "classical", 
+    "usul": {
+        "symbtr_slug": "yuruksemai", 
+        "mb_attribute": "Y\u00fcr\u00fcksemai", 
+        "mertebe": 8, 
+        "mu2_name": "Y\u00fcr\u00fcksem\u00e2\u00ee", 
+        "number_of_pulses": 6
+    }, 
+    "sections": [
+        {
+            "name": "ARANA\u011eME", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 45, 
+            "startNote": 1, 
+            "melodicStructure": "ARANAGME_1", 
+            "lyrics": "", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "name": "ARANA\u011eME", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 90, 
+            "startNote": 46, 
+            "melodicStructure": "ARANAGME_1", 
+            "lyrics": "", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 138, 
+            "startNote": 91, 
+            "melodicStructure": "B1", 
+            "lyrics": "\u00dclfet_etsem y\u00e2r ile a\u011fy\u00e2re ne  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 186, 
+            "startNote": 139, 
+            "melodicStructure": "B2", 
+            "lyrics": "\u00dclfet_etsem y\u00e2r ile a\u011fy\u00e2re ne  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "C1", 
+            "endNote": 231, 
+            "startNote": 187, 
+            "melodicStructure": "C1", 
+            "lyrics": "Yansam_\u00e2te\u015fler gibi dild\u00e2re ne  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "C1", 
+            "endNote": 276, 
+            "startNote": 232, 
+            "melodicStructure": "C2", 
+            "lyrics": "Yansam_\u00e2te\u015fler gibi dild\u00e2re ne  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "D1", 
+            "endNote": 314, 
+            "startNote": 277, 
+            "melodicStructure": "D1", 
+            "lyrics": "Ben hel\u00e2k olsam m\u00fcr\u00fcvvetk\u00e2re ne  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "D1", 
+            "endNote": 352, 
+            "startNote": 315, 
+            "melodicStructure": "D2", 
+            "lyrics": "Ben hel\u00e2k olsam m\u00fcr\u00fcvvetk\u00e2re ne  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "C1", 
+            "endNote": 388, 
+            "startNote": 353, 
+            "melodicStructure": "C3", 
+            "lyrics": "Yansam_\u00e2te\u015fler gibi dild\u00e2re ne  ", 
+            "slug": "VOCAL_SECTION"
+        }
+    ], 
+    "symbtr": "hicaz_uzzal--sarki--yuruksemai--ulfet_etsem--sevki_bey"
+}
