@@ -1,0 +1,127 @@
+{
+    "tonic": "E4", 
+    "lyricist": {
+        "mbid": "125ec42a-7229-4250-afc5-e057484327fe", 
+        "name": "[unknown]", 
+        "mu2_name": "?"
+    }, 
+    "notation": "TSM", 
+    "language": "tur", 
+    "form": {
+        "symbtr_slug": "sarki", 
+        "mb_attribute": "\u015eark\u0131", 
+        "mu2_name": "\u015eark\u0131"
+    }, 
+    "phrases": {
+        "automatic": [], 
+        "annotated": []
+    }, 
+    "work": {
+        "mbid": "1bcdf477-fe54-4ba3-befe-5b6caf2879a9", 
+        "title": "Yand\u0131k\u00e7a Oldu Suzan"
+    }, 
+    "tempo": {
+        "unit": "bpm", 
+        "value": 144
+    }, 
+    "mu2_title": "Yand\u0131k\u00e7a Oldu S\u00fbz\u00e2n", 
+    "makam": {
+        "symbtr_slug": "suzidil", 
+        "mb_attribute": "Suzidil", 
+        "mu2_name": "S\u00fbzidil"
+    }, 
+    "key_signature": [
+        "F5#1", 
+        "G5#4", 
+        "D5#4"
+    ], 
+    "composer": {
+        "mbid": "64b8dcaa-03a4-48e8-919f-362ebb57809a", 
+        "symbtr_slug": "tanburi_ali_efendi", 
+        "name": "Tanburi Ali Efendi", 
+        "mu2_name": "Tanbur\u00ee Ali Efendi"
+    }, 
+    "genre": "classical", 
+    "usul": {
+        "symbtr_slug": "evfer", 
+        "mb_attribute": "Evfer", 
+        "mertebe": 8, 
+        "mu2_name": "Evfer", 
+        "number_of_pulses": 9
+    }, 
+    "sections": [
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "A1", 
+            "endNote": 39, 
+            "startNote": 1, 
+            "melodicStructure": "A1", 
+            "lyrics": "Yand\u0131k\u00e7a oldu s\u00fbz\u00e2n kalb_i \u015ferer fe\u015f\u00e2n\u0131m  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "A1", 
+            "endNote": 78, 
+            "startNote": 40, 
+            "melodicStructure": "AB1", 
+            "lyrics": "Yand\u0131k\u00e7a oldu s\u00fbz\u00e2n kalb_i \u015ferer fe\u015f\u00e2n\u0131m  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 116, 
+            "startNote": 79, 
+            "melodicStructure": "C1", 
+            "lyrics": "Oldu yine alevriz da\u011f_\u0131 gam_\u0131 nih\u00e2n\u0131m  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 160, 
+            "startNote": 117, 
+            "melodicStructure": "D1", 
+            "lyrics": "Oldu yine alevriz da\u011f_\u0131 gam_\u0131 nih\u00e2n\u0131m  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "C1", 
+            "endNote": 213, 
+            "startNote": 161, 
+            "melodicStructure": "E1", 
+            "lyrics": "N\u00e2r_\u0131 leh\u00eeb_i a\u015fk\u0131n s\u00fbz\u00e2n\u0131y\u0131m an\u0131n\u00e7\u00fcn  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "C1", 
+            "endNote": 254, 
+            "startNote": 214, 
+            "melodicStructure": "B1", 
+            "lyrics": "N\u00e2r_\u0131 leh\u00eeb_i a\u015fk\u0131n s\u00fbz\u00e2n\u0131y\u0131m an\u0131n\u00e7\u00fcn  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 292, 
+            "startNote": 255, 
+            "melodicStructure": "C1", 
+            "lyrics": "Oldu yine alevriz da\u011f_\u0131 gam_\u0131 nih\u00e2n\u0131m  ", 
+            "slug": "VOCAL_SECTION"
+        }, 
+        {
+            "name": "VOCAL_SECTION", 
+            "lyricStructure": "B1", 
+            "endNote": 335, 
+            "startNote": 293, 
+            "melodicStructure": "D2", 
+            "lyrics": "Oldu yine alevriz da\u011f_\u0131 gam_\u0131 nih\u00e2n\u0131m  ", 
+            "slug": "VOCAL_SECTION"
+        }
+    ], 
+    "symbtr": "suzidil--sarki--evfer--yandikca_oldu--tanburi_ali_efendi"
+}
