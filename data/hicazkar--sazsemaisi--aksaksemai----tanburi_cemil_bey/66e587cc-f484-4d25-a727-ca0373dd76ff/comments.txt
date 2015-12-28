@@ -1,0 +1,2 @@
+jasa:
+	Omitted the annotation related to the the embellishment with note id 52 at 18.495 sec.

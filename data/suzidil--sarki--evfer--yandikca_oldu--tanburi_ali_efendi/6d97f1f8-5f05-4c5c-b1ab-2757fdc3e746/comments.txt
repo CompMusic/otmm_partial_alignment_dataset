@@ -1,0 +1,2 @@
+jasa:
+	Omitted the erroneous annotations related to the note ids 115-117, 136-138 as they are not performed in the performance.
