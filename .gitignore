@@ -5,5 +5,7 @@
 *.mat
 *.pyc
 *.*~
+.idea/
+.ipynb_checkpoints/
 predominantMelody.txt
 autoAlignment.txt
